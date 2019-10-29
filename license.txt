@@ -1,0 +1,82 @@
+NORDIC SEMICONDUCTOR
+
+STANDARD SOFTWARE DEVELOPMENT KIT LICENSE AGREEMENT
+
+This licence agreement (the "Agreement") is entered into by and between
+
+Nordic Semiconductor ASA, Otto Nielsen vei 12, 7004 Trondheim, co. reg. No. 966 011 726, ("Nordic Semiconductor")
+
+and 
+
+the legal entity that you represents and which have agreed with Nordic Semiconductor to receive this Software Development Kit (as defined below) and to use it in accordance with this Agreement (the "Licensee")
+
+each referred to as "Party" and collectively as "Parties".
+
+Licensee agrees to be bound by this Agreement by installing the Software Development Kit or opening the package in which the Software Development Kit is packed. 
+
+1.	BACKGROUND AND PURPOSE
+
+1.1	Nordic Semiconductor is a semiconductor company specializing in design solutions at the microchip level in the areas of wireless communication and multimedia. 
+
+1.2	The Agreement sets out the terms and conditions under which Licensee licenses Nordic Semiconductor software products and adherent documentation.
+
+2.	SCOPE OF LICENSE
+
+2.1	Nordic Semiconductor grants to Licensee a non-exclusive, non-transferable, perpetual, revocable license (the "License") to use the software and adherent documentation as described in the documentation included in the package in which also this Agreement is included (the "Software Development Kit") solely for implementation of such in Licensee's own products containing Nordic Semiconductor radio devices (jointly the "Applications"), and for resale of such Applications.  
+
+2.2	Licensee shall use the Software Development Kit only in compliance with this Agreement and shall refrain from using the Software Development Kit in any way that may be contrary to this Agreement or detrimental to Nordic Semiconductor in any way, including, but not limited to its confidential information, intellectual property rights or goodwill.
+
+2.3	The License allows Licensee to (i) install the Software Development Kit on Licensee's computer(s), and (ii) make copies of the Software Development Kit for back-up and archival purposes.
+
+2.4	Licensee may reverse engineer, disassemble, or de-compile the software from Nordic Semiconductor included in the Software Development Kit, or otherwise attempt to discover the source code of or modify the software from Nordic Semiconductor included in the Software Development Kit or disable or modify any specifications (jointly "Modifications") that are provided with the Software Development Kit or a Software Development Kit update.
+
+Any Modifications shall be made at Licensee's own account and risk.
+
+2.5	Any marketing, sub-license, sale, reproduction, deployment or other outside use of the Software Development Kit or any part thereof by Licensee is prohibited, except if approved in writing by Nordic Semiconductor.
+
+2.6	Each copy of the Software Development Kit shall at all times bear the Nordic Semiconductor proprietary and confidentiality notices, trademarks and other signs included in the original version. Licensee may not remove, obscure or alter any copyright, trademark, or other proprietary or confidentiality notices on or in the Software Development Kit.
+
+3.	FEE
+
+3.1	Nordic Semiconductor grants the License to the Licensee free of charge. 
+
+4.	EXCLUSION OF WARRANTIES AND LIABILITY
+
+4.1	NORDIC SEMICONDUCTOR MAKES NO WARRANTIES, EXPRESS OR IMPLIED, CONCERNING THE SOFTWARE DEVELOPMENT KIT OR THE INTELLECTUAL PROPERTY RIGHTS INCLUDED THEREIN, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT, OR THAT THE SOFTWARE DEVELOPMENT KIT WILL OPERATE PROPERLY IN AN APPLICATION OR BE UNINTERRUPTED OR ERROR-FREE.  NORDIC SEMICONDUCTOR WILL NOT BE LIABLE OR IN ANY WAY RESPONSIBLE FOR THE COMMERCIAL SUCCESS OR FAILURE OF ANY APPLICATION IN WHICH A SOFTWARE DEVELOPMENT KIT IS EMBEDDED, OR OF ANY ENHANCEMENT OF AN APPLICATION.  NORDIC SEMICONDUCTOR MAKES NO WARRANTIES CONCERNING ANY THIRD PARTY PRODUCT.
+
+4.2	NORDIC SEMICONDUCTOR'S WAIVES ANY AND ALL LIABILITY FOR ANY FINANCIAL LOSS SUFFERED BY LICENSEE UNDER OR IN CONNECTION OF THIS AGREEMENT, INCLUDING WITHOUT LIMITATION DUE TO NON-PERFORMANCE OR MISREPRESENTATION, AND REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT OR ANY OTHER LEGAL THEORY.
+
+5.	CONFIDENTIALITY
+
+5.1	Licensee agrees to keep the Confidential Information (as defined below) strictly confidential and shall not disclose the Confidential Information to any other person except to a court of law when required by court order, save that Licensee may disclose the Confidential Information only to its employees who:
+
+(i)	Under the terms of their employment by Licensee are subject to an obligation not to disclose confidential information of Licensee, and
+
+(ii)	Need to know the Confidential Information for the performance of their duties for Licensee.
+
+5.2	Licensee shall protect the Confidential Information with the same degree of care as it normally uses in the protection of its own confidential and proprietary information, but in no case with any less degree than reasonable care. Licensee shall, at Nordic Semiconductor's request, provide written assurances concerning the steps taken by Licensee to preserve the confidentiality of the Confidential Information. Licensee shall comply with all reasonable instructions from Nordic Semiconductor with regard to security and safety of the Confidential Information.
+
+5.3	"Confidential Information" shall mean any information delivered or communicated by Nordic Semiconductor to Licensee under this Agreement or any other information of a confidential nature relating to the Software Development Kit made available to Licensee by Nordic Semiconductor which is marked confidential, or disclosed orally and identified as confidential or is known to be confidential or which Licensee should understand is confidential by the nature of the information. Confidential Information shall not include information that: 
+
+(i)	Now, or later becomes, generally known to the public (other than through Licensee's fault)
+
+(ii)	Is lawfully known by Licensee, or lawfully obtained by Licensee from any third party who has lawfully obtained such information
+
+6.	INDEMNITY
+
+6.1	Licensee undertakes to indemnify, hold harmless and defend Nordic Semiconductor and its directors, officers, affiliates, shareholders, employees and agents from and against any claims or lawsuits, including attorney's fees, that arise or result from Licensee's execution of the License and which is not due to causes for which Nordic Semiconductor is responsible.
+
+7.	GOVERNING LAW ETC
+
+7.1	This Agreement shall be construed according to the laws of Norway, and hereby submits to the exclusive jurisdiction of the Oslo tingrett.
+
+8.	ASSIGNMENT
+
+8.1	Licensee shall not assign this Agreement or any rights or obligations hereunder without the prior written consent of Nordic Semiconductor. 
+
+9.	TERMINATION
+
+9.1	Without prejudice to any other rights, Nordic Semiconductor may cancel this Agreement if Licensee does not abide by the terms and conditions of this Agreement.
+
+9.2	Upon termination Licensee must promptly cease the use of the License and destroy all copies of the Software Development Kit.
+
